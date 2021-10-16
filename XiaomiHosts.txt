@@ -1,0 +1,12 @@
+# entHosts v0.1
+
+# As a standard...
+127.0.0.1  localhost
+::1  localhost
+
+# Analytics by Xiaomi from anywhere.
+127.0.0.1 api.installer.xiaomi.com
+127.0.0.1 cn.app.chat.xiaomi.net
+127.0.0.1 resolver.msg.xiaomi.net
+127.0.0.1 api.sec.intl.miui.com
+127.0.0.1 api.miui.security.xiaomi.com
