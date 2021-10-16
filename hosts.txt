@@ -9,3 +9,4 @@
 127.0.0.1 cn.app.chat.xiaomi.net
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 api.sec.intl.miui.com
+127.0.0.1 api.miui.security.xiaomi.com
