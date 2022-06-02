@@ -1,0 +1,4 @@
+# GHosts | by Entaytion
+
+# Analytics by Google from anywhere.
+127.0.0.1 ssl.google-analytics.com
