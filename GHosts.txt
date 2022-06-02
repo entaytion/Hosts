@@ -1,4 +1,5 @@
 # GHosts | by Entaytion
 
-# Analytics by Google from anywhere.
+# Analytics, firebase, etc. by Google from anywhere.
 127.0.0.1 ssl.google-analytics.com
+127.0.0.1 firebaseinstallations.googleapis.com
