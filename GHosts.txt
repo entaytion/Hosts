@@ -9,3 +9,6 @@
 
 # [firebase]
 127.0.0.1 firebaseinstallations.googleapis.com
+
+# [other]
+127.0.0.1 pagead2.googlesyndication.com
