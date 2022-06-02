@@ -1,5 +1,11 @@
 # GHosts | by Entaytion
 
-# Analytics, firebase, etc. by Google from anywhere.
+# [config]
+127.0.0.1  localhost
+::1  localhost
+
+# [analytics]
 127.0.0.1 ssl.google-analytics.com
+
+# [firebase]
 127.0.0.1 firebaseinstallations.googleapis.com
