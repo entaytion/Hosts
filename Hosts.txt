@@ -7,6 +7,11 @@
 # [Other]
 0.0.0.0 log.byteoversea.com
 0.0.0.0 venetia.iad.appboy.com
+0.0.0.0 wv.inner-active.mobi
+0.0.0.0 cdn2.inner-active.mobi
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 a.applovin.com
+0.0.0.0 sdk-events.inner-active.mobi
 
 # [Google Analytics]
 0.0.0.0 ssl.google-analytics.com
