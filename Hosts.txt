@@ -4,12 +4,6 @@
 127.0.0.1  localhost
 ::1  localhost
 
-# Hosts
-
-# [Config]
-0.0.0.0  localhost
-::1  localhost
-
 # [Other]
 0.0.0.0 log.byteoversea.com
 0.0.0.0 venetia.iad.appboy.com
