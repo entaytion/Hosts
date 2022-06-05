@@ -1,9 +1,0 @@
-# AltHosts | by Entaytion
-
-# [config]
-127.0.0.1  localhost
-::1  localhost
-
-# [other]
-127.0.0.1 log.byteoversea.com
-127.0.0.1 venetia.iad.appboy.com
