@@ -4,17 +4,23 @@
 127.0.0.1  localhost
 ::1  localhost
 
+# Hosts
+
+# [Config]
+0.0.0.0  localhost
+::1  localhost
+
 # [Other]
-127.0.0.1 log.byteoversea.com
-127.0.0.1 venetia.iad.appboy.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 venetia.iad.appboy.com
 
 # [Google Analytics]
-127.0.0.1 ssl.google-analytics.com
+0.0.0.0 ssl.google-analytics.com
 
 # [Google Firebase]
-127.0.0.1 firebaseinstallations.googleapis.com
-127.0.0.1 firebaselogging.googleapis.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
 
 # [Google Stuff]
-127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 app-measurement.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 app-measurement.com
