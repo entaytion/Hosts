@@ -18,3 +18,27 @@
 # [Google Stuff]
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 app-measurement.com
+
+# [Google Chrome Update] | habr.com/ru/sandbox/71046/
+0.0.0.0 clients.google.com
+0.0.0.0 clients1.google.com
+0.0.0.0 clients2.google.com
+0.0.0.0 clients3.google.com
+0.0.0.0 clients4.google.com
+0.0.0.0 clients5.google.com
+0.0.0.0 clients6.google.com
+0.0.0.0 clients7.google.com
+0.0.0.0 clients8.google.com
+0.0.0.0 clients9.google.com
+0.0.0.0 lh1.googleusercontent.com
+0.0.0.0 lh2.googleusercontent.com
+0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 lh4.googleusercontent.com
+0.0.0.0 lh5.googleusercontent.com
+0.0.0.0 lh6.googleusercontent.com
+0.0.0.0 lh7.googleusercontent.com
+0.0.0.0 encrypted-tbn1.gstatic.com
+0.0.0.0 encrypted-tbn2.gstatic.com
+0.0.0.0 encrypted-tbn3.gstatic.com
+0.0.0.0 encrypted-tbn4.gstatic.com
+0.0.0.0 encrypted-tbn5.gstatic.com
