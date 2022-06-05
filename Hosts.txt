@@ -42,3 +42,6 @@
 0.0.0.0 encrypted-tbn3.gstatic.com
 0.0.0.0 encrypted-tbn4.gstatic.com
 0.0.0.0 encrypted-tbn5.gstatic.com
+
+# [Xiaomi]
+0.0.0.0 resolver.msg.global.xiaomi.net
